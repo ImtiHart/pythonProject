@@ -1,0 +1,14 @@
+character_name = "Imtiyaaz"
+character_age = "18"
+print("My name is " + character_name + ",")
+print("I am " + character_age + " years old. ")
+sister_name = "Ilhaam"
+sister_age = "15"
+print("My sister is " + sister_name + ",")
+print("she is " + sister_age + ".")
+print(sister_name + " drew a castle:")
+print("|_|_|_|")
+print("|0   0|")
+print("|     |")
+print("|  H  |")
+
